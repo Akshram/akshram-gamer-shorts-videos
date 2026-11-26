@@ -1,6 +1,8 @@
 # Shorts videos (@akshram_gamer)
 
 Vertical 1080x1920 YouTube Shorts, about 31-34 seconds each. Posts go out at 7:00 PM IST.
+
+Upload list for manual posting in YouTube Studio: upload_list.csv
 Status: QUEUE = scheduled on FavStash, DRAFT = saved on FavStash, not scheduled, REPO = rendered only.
 
 | File | Title | Planned date | Status |

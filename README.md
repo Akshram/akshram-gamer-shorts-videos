@@ -8,3 +8,11 @@ Vertical (1080x1920) YouTube Shorts for @akshram_gamer, 7:00 PM IST.
 | shorts/02_biology_no_foundation.mp4 | Thu 3 Dec 2026 | |
 | shorts/03_critics_picks_2026.mp4 | Thu 10 Dec 2026 | Pending approval of topic change |
 | shorts/04_what_if_video_games_never_existed.mp4 | Thu 17 Dec 2026 | |
+
+## Drafts (not scheduled yet)
+
+| File | Planned date | Notes |
+|---|---|---|
+| shorts/05_tetris_facts.mp4 | Thu 24 Dec 2026 | Tetris facts |
+| shorts/06_super_mario_facts.mp4 | Thu 31 Dec 2026 | Super Mario Bros. facts |
+| shorts/07_minecraft_facts.mp4 | Thu 7 Jan 2027 | Minecraft facts |

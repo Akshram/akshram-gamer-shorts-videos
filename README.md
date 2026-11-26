@@ -16,3 +16,8 @@ Status: QUEUE = scheduled on FavStash, DRAFT = saved on FavStash, not scheduled,
 | 09_space_invaders_facts.mp4 | Space Invaders facts | Thu 21 Jan 2027 | DRAFT |
 | 10_zelda_facts.mp4 | The Legend of Zelda facts | Thu 28 Jan 2027 | DRAFT |
 | 11_doom_facts.mp4 | Doom facts | Thu 4 Feb 2027 | DRAFT |
+| 12_pokemon_facts.mp4 | Pokémon facts | Thu 11 Feb 2027 | DRAFT |
+| 13_sonic_facts.mp4 | Sonic the Hedgehog facts | Thu 18 Feb 2027 | DRAFT |
+| 14_donkey_kong_facts.mp4 | Donkey Kong facts | Thu 25 Feb 2027 | DRAFT |
+| 15_half_life_facts.mp4 | Half-Life facts | Thu 4 Mar 2027 | DRAFT |
+| 16_stardew_valley_facts.mp4 | Stardew Valley facts | Thu 11 Mar 2027 | DRAFT |

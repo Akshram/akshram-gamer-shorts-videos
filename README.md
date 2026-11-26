@@ -27,3 +27,9 @@ Status: QUEUE = scheduled on FavStash, DRAFT = saved on FavStash, not scheduled,
 ## Batch: slots 14-100 (made, facts need check)
 
 See calendar_100.csv for the full 100-slot schedule. Every file in shorts/ is rendered; facts are not yet checked against live sources.
+
+## Audio and fact check (26 Nov 2026)
+
+- All 103 Shorts now have a voiceover (espeak-ng, robotic) and a synthetic music bed.
+- Fact check so far, against live sources: Spacewar! prize (Rolling Stone subscription); Doom development (about 15 months, 1992-1993); Space Invaders 100-yen coin shortage is a myth, so it was removed; Donkey Kong Popeye story corrected; Zelda name is "often said to come from" Zelda Fitzgerald.
+- Not yet checked: most other claims, and the GTA 6 numbers. Check before scheduling.

@@ -12,7 +12,7 @@ Status: QUEUE = scheduled on FavStash, DRAFT = saved on FavStash, not scheduled,
 | 05_tetris_facts.mp4 | 4 Tetris facts you may not know | Thu 24 Dec 2026 | DRAFT |
 | 06_super_mario_facts.mp4 | Why Super Mario Bros. is still huge | Thu 31 Dec 2026 | DRAFT |
 | 07_minecraft_facts.mp4 | Minecraft started as a side project | Thu 7 Jan 2027 | DRAFT |
-| 08_pacman_facts.mp4 | Pac-Man facts | Thu 14 Jan 2027 | REPO |
-| 09_space_invaders_facts.mp4 | Space Invaders facts | Thu 21 Jan 2027 | REPO |
-| 10_zelda_facts.mp4 | The Legend of Zelda facts | Thu 28 Jan 2027 | REPO |
-| 11_doom_facts.mp4 | Doom facts | Thu 4 Feb 2027 | REPO |
+| 08_pacman_facts.mp4 | Pac-Man facts | Thu 14 Jan 2027 | DRAFT |
+| 09_space_invaders_facts.mp4 | Space Invaders facts | Thu 21 Jan 2027 | DRAFT |
+| 10_zelda_facts.mp4 | The Legend of Zelda facts | Thu 28 Jan 2027 | DRAFT |
+| 11_doom_facts.mp4 | Doom facts | Thu 4 Feb 2027 | DRAFT |

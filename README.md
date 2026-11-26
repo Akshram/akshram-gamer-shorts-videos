@@ -23,3 +23,7 @@ Status: QUEUE = scheduled on FavStash, DRAFT = saved on FavStash, not scheduled,
 | 14_donkey_kong_facts.mp4 | Donkey Kong facts | Thu 25 Feb 2027 | DRAFT |
 | 15_half_life_facts.mp4 | Half-Life facts | Thu 4 Mar 2027 | DRAFT |
 | 16_stardew_valley_facts.mp4 | Stardew Valley facts | Thu 11 Mar 2027 | DRAFT |
+
+## Batch: slots 14-100 (made, facts need check)
+
+See calendar_100.csv for the full 100-slot schedule. Every file in shorts/ is rendered; facts are not yet checked against live sources.
